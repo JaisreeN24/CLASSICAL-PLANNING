@@ -1,6 +1,10 @@
 # ExpNo:11 Implementation of Classical Planning Algorithm
 <h3>Name: Jaisree N                      </h3>
 <h3>Register Number/Staff Id: 212224060104               </h3>
+
+# Aim
+To solve Implementation of Classical Planning Algorithm using python
+
 # Algorithm or Steps Involved:
 <ol>
   <li>Define the initial state</li>
